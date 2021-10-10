@@ -1,0 +1,58 @@
+{
+  "id": "2636137",
+  "name": "点赞",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "979",
+      "name": "付款方式",
+      "font_class": "fukuanfangshi",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "2820930",
+      "name": "新手上路",
+      "font_class": "xinshoushanglu",
+      "unicode": "e6f0",
+      "unicode_decimal": 59120
+    },
+    {
+      "icon_id": "10069920",
+      "name": "保障",
+      "font_class": "baozhang",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "15440596",
+      "name": "淘宝特色",
+      "font_class": "tao",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "6574131",
+      "name": "小眼睛",
+      "font_class": "xiaoyanjing",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "15346611",
+      "name": "换一换",
+      "font_class": "huanyihuan",
+      "unicode": "e6a9",
+      "unicode_decimal": 59049
+    },
+    {
+      "icon_id": "77697",
+      "name": "点赞",
+      "font_class": "dianzan",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
